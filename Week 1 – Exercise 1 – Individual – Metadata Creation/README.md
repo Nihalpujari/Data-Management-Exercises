@@ -11,9 +11,9 @@
 ```text
 Data-Management-Exercises/
 ├── Week 1 – Exercise 1 – Individual – Metadata Creation/
-│       ├── README.md
-│       ├── palmerpenguins_datacite.xml
-│       └── palmerpenguins_schemaorg.json
+      ├── README.md
+      ├── palmerpenguins_datacite.xml
+      └── palmerpenguins_schemaorg.json
 ```
 
 ## Group Members
