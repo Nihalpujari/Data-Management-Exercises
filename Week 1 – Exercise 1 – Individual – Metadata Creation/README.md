@@ -19,7 +19,7 @@ your-repo/
 
 ## Group Members
 - Nihal Pujari
-- Add other names here if this is a group submission
+
 
 ## Dataset Source
 - Project website: https://allisonhorst.github.io/palmerpenguins/
