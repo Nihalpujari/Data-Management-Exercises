@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "palmerpenguins: Palmer Archipelago (Antarctica) penguin data",
+  "description": "A public dataset used for teaching and data exploration that contains measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.",
+  "identifier": "https://doi.org/10.5281/zenodo.3960218",
+  "url": "https://allisonhorst.github.io/palmerpenguins/",
+  "sameAs": "https://archive.ics.uci.edu/dataset/690/palmer+penguins-3",
+  "version": "0.1.0",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "penguins",
+    "Antarctica",
+    "biology",
+    "data visualization",
+    "teaching dataset"
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Allison Marie Horst"
+    },
+    {
+      "@type": "Person",
+      "name": "Alison Presmanes Hill"
+    },
+    {
+      "@type": "Person",
+      "name": "Kristen B. Gorman"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "includedInDataCatalog": [
+    {
+      "@type": "DataCatalog",
+      "name": "Zenodo",
+      "url": "https://zenodo.org/records/3960218"
+    },
+    {
+      "@type": "DataCatalog",
+      "name": "UCI Machine Learning Repository",
+      "url": "https://archive.ics.uci.edu/dataset/690/palmer+penguins-3"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "CSV",
+      "contentUrl": "https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/inst/extdata/penguins.csv"
+    }
+  ],
+  "variableMeasured": [
+    "species",
+    "island",
+    "bill_length_mm",
+    "bill_depth_mm",
+    "flipper_length_mm",
+    "body_mass_g",
+    "sex",
+    "year"
+  ],
+  "measurementTechnique": "Field measurements of penguin morphology compiled and packaged for educational use.",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Palmer Archipelago, Antarctica"
+  },
+  "temporalCoverage": "2007/2009"
+}

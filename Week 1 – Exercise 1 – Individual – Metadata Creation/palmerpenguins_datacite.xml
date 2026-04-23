@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.3960218</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Horst, Allison Marie</creatorName>
+      <givenName>Allison Marie</givenName>
+      <familyName>Horst</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Hill, Alison Presmanes</creatorName>
+      <givenName>Alison Presmanes</givenName>
+      <familyName>Hill</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Gorman, Kristen B.</creatorName>
+      <givenName>Kristen B.</givenName>
+      <familyName>Gorman</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>palmerpenguins: Palmer Archipelago (Antarctica) penguin data</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2020</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">R package dataset</resourceType>
+  <subjects>
+    <subject>Biology</subject>
+    <subject>Penguins</subject>
+    <subject>Antarctica</subject>
+    <subject>Data visualization</subject>
+    <subject>Teaching dataset</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Zenodo</contributorName>
+    </contributor>
+    <contributor contributorType="Distributor">
+      <contributorName>palmerpenguins project website</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2020</date>
+  </dates>
+  <language>en</language>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://allisonhorst.github.io/palmerpenguins/</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="URL">https://archive.ics.uci.edu/dataset/690/palmer+penguins-3</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>344 records</size>
+    <size>8 variables in simplified penguins table</size>
+  </sizes>
+  <formats>
+    <format>CSV</format>
+    <format>R package</format>
+  </formats>
+  <version>0.1.0</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The Palmer Penguins dataset is an introductory biology dataset containing measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica. The simplified penguins table includes species, island, bill length, bill depth, flipper length, body mass, sex, and year.</description>
+    <description descriptionType="Methods">Data were collected through the Palmer Station Long-Term Ecological Research program and later packaged for teaching and data exploration as the palmerpenguins dataset.</description>
+  </descriptions>
+</resource>
