@@ -9,9 +9,8 @@
 
 ## Suggested GitHub Repository Structure
 ```text
-your-repo/
-├── week-05/
-│   └── exercise-metadata/
+Data-Management-Exercises/
+├── Week 1 – Exercise 1 – Individual – Metadata Creation/
 │       ├── README.md
 │       ├── palmerpenguins_datacite.xml
 │       └── palmerpenguins_schemaorg.json
