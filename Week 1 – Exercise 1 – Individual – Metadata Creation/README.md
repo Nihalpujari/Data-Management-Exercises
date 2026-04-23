@@ -1,4 +1,4 @@
-# Week X - Exercise Y: Dataset Metadata
+# Week 1 - Exercise 1: Dataset Metadata
 
 ## Dataset Chosen
 **palmerpenguins: Palmer Archipelago (Antarctica) penguin data**
@@ -15,10 +15,6 @@ Data-Management-Exercises/
       ├── palmerpenguins_datacite.xml
       └── palmerpenguins_schemaorg.json
 ```
-
-## Group Members
-- Nihal Pujari
-
 
 ## Dataset Source
 - Project website: https://allisonhorst.github.io/palmerpenguins/
